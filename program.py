@@ -1,2 +1,2 @@
 print('Я домашка' fgfhgfhf
-dfdfd
+dfdfdапапа ва
